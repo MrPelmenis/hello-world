@@ -1,2 +1,2 @@
-# hello-world
-a short description.
+# mans blakussēdētājs
+patīkami smaržo pēc apelsīnu mizām
